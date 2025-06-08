@@ -15,6 +15,8 @@ Take it and enjoy! You don't need to know CMake!
 
 <p>Opening the Solution:</p> 
 
+For windows: Remember to use MSVC instead of MinGW, as that won't compile for some reason.
+
 <img src="https://raw.githubusercontent.com/meemknight/photos/master/llge1.gif" width="350">
 
 Or
